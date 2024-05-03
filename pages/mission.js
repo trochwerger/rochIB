@@ -18,7 +18,7 @@ export default function mission() {
           <p>
             With our specialized expertise and extensive network, we facilitate
             connections between Canadian equipment companies and the thriving
-            markets of Latin America. From concept to implementation, we're
+            markets of Latin America. From concept to implementation, we&apos;re
             committed to delivering top-notch engineering solutions that drive
             success and growth for our clients.
           </p>
@@ -31,7 +31,7 @@ export default function mission() {
           <br />
           <p>
             At RochIB, our mission is to provide innovative engineering and
-            construction solutions that exceed our clients' expectations. We are
+            construction solutions that exceed our clients&apos; expectations. We are
             committed to delivering exceptional results with integrity,
             professionalism, and a relentless pursuit of excellence. By
             leveraging our expertise and creativity, we aim to contribute
@@ -55,7 +55,7 @@ export default function mission() {
             and sustainable solutions that drive success and growth for our
             clients. By fostering strategic partnerships and leveraging our
             expertise, we empower Canadian equipment companies to thrive in
-            Latin America's ever-evolving energy landscape.
+            Latin America&apos;s ever-evolving energy landscape.
           </p>
         </Col>
       </Row>
@@ -92,7 +92,7 @@ export default function mission() {
             <strong>Innovation</strong>
             <br />
             We embrace innovation as a cornerstone of our success, constantly
-            pushing the boundaries of what's possible and pioneering new
+            pushing the boundaries of what&apos;s possible and pioneering new
             approaches to engineering challenges to deliver value-driven
             solutions.
           </p>

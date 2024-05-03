@@ -30,8 +30,9 @@ export default function Home() {
             the oil and gas industry. With our specialized expertise and
             extensive network, we facilitate connections between Canadian
             equipment companies and the thriving markets of Latin America. From
-            concept to implementation, we're committed to delivering top-notch
-            engineering solutions that drive success and growth for our clients.
+            concept to implementation, we&apos;re committed to delivering
+            top-notch engineering solutions that drive success and growth for
+            our clients.
           </p>
           <br />
         </Col>
@@ -65,11 +66,11 @@ export default function Home() {
             <p>
               Your success is our priority at RochIB. We understand the
               challenges and opportunities facing Canadian equipment companies
-              looking to expand into Latin America. That's why we take a
+              looking to expand into Latin America. That&apos;s why we take a
               personalized approach to every project, working closely with our
               clients to understand their goals and develop tailored solutions
               that meet their specific requirements. With our dedicated support
-              and expertise, we're here to help you achieve your business
+              and expertise, we&apos;re here to help you achieve your business
               objectives and drive growth in new markets.
             </p>
             <br />
@@ -86,9 +87,10 @@ export default function Home() {
               Innovation is at the heart of everything we do at RochIB. Our team
               of skilled engineers and construction professionals is constantly
               pushing the boundaries to deliver cutting-edge solutions. Whether
-              it's implementing the latest technologies or adopting sustainable
-              practices, we're committed to finding innovative ways to optimize
-              efficiency, minimize costs, and maximize value for our clients.
+              it&apos;s implementing the latest technologies or adopting
+              sustainable practices, we&apos;re committed to finding innovative
+              ways to optimize efficiency, minimize costs, and maximize value
+              for our clients.
             </p>
           </Col>
         </Row>
@@ -97,13 +99,13 @@ export default function Home() {
         <Col>
           <h4>Why Choose Us</h4>
           <p>
-            When you choose RochIB, you're choosing a partner who understands
-            the intricacies of the oil and gas industry and the dynamics of the
-            Latin American market. With our deep industry knowledge, extensive
-            network, and proven track record of success, we have the expertise
-            to help you navigate challenges, capitalize on opportunities, and
-            achieve sustainable growth. Trust RochIB to be your bridge to
-            success in Latin America's oil and gas sector.
+            When you choose RochIB, you&apos;re choosing a partner who
+            understands the intricacies of the oil and gas industry and the
+            dynamics of the Latin American market. With our deep industry
+            knowledge, extensive network, and proven track record of success, we
+            have the expertise to help you navigate challenges, capitalize on
+            opportunities, and achieve sustainable growth. Trust RochIB to be
+            your bridge to success in Latin America&apos;s oil and gas sector.
           </p>
         </Col>
       </Row>
